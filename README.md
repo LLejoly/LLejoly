@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**LLejoly/LLejoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tell me more about you ...
+- 🔭 I’m currently working at NRB as Data Scientist. NRB is a big ICT service provider in Belgium allowing you to source or outsource IT to the degree that best fits your needs and ambitions (Consultancy, Infrastructre/Cloud,...).
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning...  Wait🛑 You are learning every day 🧩
+- 👯 I’m supervising students for their internship and/or their master thesis
+  -  Implémentation de modèles Deep Learning détectant les déchets sur différents systèmes embarqués (Master thesis of Samuel Pecoraro - Helmo 2021)
+  -  Optimization of a multi-depot routing for bottle banks rounds based on variable logistic constraints (Master thesis of Adrien Chiodo - Uliège 2021)
+  -  Embedded OCR for water meters (Internship of Sergio Castillo - Uliège 2021)
+- ⚡ Fun fact: Bring me 🍻 and I will tell you a story 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- ⛅ Cloud platforms: AWS, Azure and, time to time IBM
+- 💾 progrmming languages: Python🐍 (Pytorch, Pandas, sklearn,...), C, Java, SQL, JS (Typescript), R
+- 🕳 backend: Docker🐳, Serveless (AWS lambda λ, Azure function ⚡), REST API (Fast API, Express,...)
+- 🥞 Management and project tools: Jira, confluence, Github, Anaconda, Jupyterlab, Jetbrains suite, VScode Office suite, ... (and blah blah blah 😵)
