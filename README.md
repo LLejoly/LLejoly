@@ -1,15 +1,15 @@
 ### Hello 👋
 
 ## Tell me more about you ...
-- I am currently working at Gaming1 as Data scientist.
-- 🌱 I’m currently learning...  Wait🛑 You are learning every day 🧩
+- I'm currently working at Gaming1 as Data scientist.
+- 🌱 I’m learning every day 🧩
 - ⚡ Fun fact: Bring me 🍻 and I will tell you a story 📚
 
 ### Past profesionnal experience
 - I worked during more than three years at NRB as Data Scientist. NRB is a big ICT service provider in Belgium allowing you to source or outsource IT to the degree that best fits your needs and ambitions (Consultancy, Infrastructre/Cloud,...).
 
 ### 👯 Students' supervision
-I superised students for their internship and/or their master thesis
+I supervised students for their internships and/or their master thesis
   -  Implémentation de modèles Deep Learning détectant les déchets sur différents systèmes embarqués (Master thesis of Samuel Pecoraro - Helmo 2021)
   -  Optimization of a multi-depot routing for bottle banks rounds based on variable logistic constraints (Master thesis of Adrien Chiodo - Uliège 2021)
   -  Embedded OCR for water meters (Internship of Sergio Castillo - Uliège 2021)
