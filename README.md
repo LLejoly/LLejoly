@@ -14,7 +14,7 @@ I supervised students for their internships and/or their master thesis
   -  Optimization of a multi-depot routing for bottle banks rounds based on variable logistic constraints (Master thesis of Adrien Chiodo - Uliège 2021)
   -  Embedded OCR for water meters (Internship of Sergio Castillo - Uliège 2021)
   -  Integration of Machine learning models into a fultter mobile application (Master Thesis of Romain Martinot - Henalux 2022)
-  -  (Master Thesis of Nicolas Tilkin - Uliège 2022)
+  -  Is the use of synthetic datasets a solution to improve object detection models on real data? (Master Thesis of Nicolas Tilkin - Uliège 2022)
 
 
 ## Tech Stack
