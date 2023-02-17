@@ -1,7 +1,10 @@
 ### Hello 👋
 
 ## Tell me more about you ...
-- I'm currently working at Gaming1 as Data scientist. Gaming1 Group stands out as a leader in the gaming industry, providing exceptional land-based and online gaming experiences. The company offers a diverse range of chance-based games including casino games, sports betting services,..). With a commitment to innovation, excellence, and responsible gaming, Gaming1 Group has earned a reputation for delivering high-quality, safe, and enjoyable gaming experiences to players across Belgium and beyond.
+- I'm currently working at Gaming1 as Data scientist.
+
+<i>Gaming1 Group stands out as a leader in the gaming industry, providing exceptional land-based and online gaming experiences. The company offers a diverse range of chance-based games including casino games, sports betting services,..). With a commitment to innovation, excellence, and responsible gaming, Gaming1 Group has earned a reputation for delivering high-quality, safe, and enjoyable gaming experiences to players across Belgium and beyond.</i>
+
 - 🌱 I’m learning every day 🧩
 - ⚡ Fun fact: Bring me 🍻 and I will tell you a story 📚
 
