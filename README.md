@@ -1,14 +1,12 @@
 ### Hello 👋
 
 ## Tell me more about you ...
-- I'm currently working at Gaming1 as Data scientist.
-
-<i>Gaming1 Group stands out as a leader in the gaming industry, providing exceptional land-based and online gaming experiences. The company offers a diverse range of chance-based games including casino games, sports betting services,..). With a commitment to innovation, excellence, and responsible gaming, Gaming1 Group has earned a reputation for delivering high-quality, safe, and enjoyable gaming experiences to players across Belgium and beyond.</i>
-
+- I'm currently working at Keiro as Data scientist.
+<i> Keiro is a Belgian company focused on assisting businesses in transforming and growing through new technologies. They offer a range of services including digital transformation, software development, and IT consulting. Keiro aims to help companies achieve growth by leveraging innovative technological solutions tailored to their specific needs </i>
 - 🌱 I’m learning every day 🧩
-- ⚡ Fun fact: Bring me 🍻 and I will tell you a story 📚
 
 ### Past profesionnal experience
+- I spent one and a half years at Gaming1 as a Data Scientist/MLOps engineer. Gaming1 Group, a leader in the gaming industry, offers a wide range of casino games and sports betting services. Known for innovation and excellence, the company provides high-quality, safe, and enjoyable gaming experiences in Belgium and beyond.
 - I worked during more than three years at NRB as Data Scientist. NRB is a big ICT service provider in Belgium allowing you to source or outsource IT to the degree that best fits your needs and ambitions (Consultancy, Infrastructre/Cloud,...).
 
 ### 👯 Students' supervision
