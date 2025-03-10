@@ -19,7 +19,7 @@ I supervised students for their internships and/or their master thesis
 
 
 ## Tech Stack
-- ⛅ Cloud platforms: AWS, Azure and, time to time IBM
+- ⛅ Cloud platforms: AWS, Azure , Scaleway and, time to time IBM
 - 💾 programming languages: Python🐍 (Pytorch, Pandas, sklearn,...), C, Java, SQL, JS (Typescript), R
 - 🕳 backend: Docker🐳, Serveless (AWS lambda λ, Azure function ⚡), REST API (Fast API, Express,...)
 - 🥞 Management and project tools: Jira, confluence, Github, Anaconda, Jupyterlab, Jetbrains suite, VScode Office suite, ... (and blah blah blah 😵)
